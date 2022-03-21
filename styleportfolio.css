@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.corDeFundo {
+    background-color: azure;
+}
+
+.foto {
+    margin: auto;
+    width: 300px;
+
+
+}
+
+.espacamento {
+    padding: 100px;
+    line-height: 2;
+    margin: center;
+}
+
+.button {
+    background-color: aquamarine;
+    font-weight: bold;
+    font-style: italic;
+}
